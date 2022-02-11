@@ -1,0 +1,8 @@
+global-styling:
+  version: 1.x
+  js:
+    js/entyviohcp.js: {}
+  css:
+    theme:
+      includes/bootstrap/css/style.css: {}
+      css/style.css: {}
